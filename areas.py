@@ -32,3 +32,5 @@ elif opcion == 4:
     print("El area del triangulo es: ",area)
 else:
     print("No se eligio nada Chau")
+
+print("Cambio")
